@@ -27,7 +27,7 @@ A unified digital ecosystem to reduce food waste, empower associates, and engage
 
 | Layer         | Technology                          |
 |---------------|-------------------------------------|
-| Frontend      | React.js, D3.js, Redux              |
+| Frontend      | React.js, Redux              |
 | Backend       | Node.js (Express), FastAPI (ML)     |
 | ML/AI         | Scikit-learn, joblib-loaded models  |
 | Database      | PostgreSQL, Redis (cache/session)   |
@@ -40,7 +40,7 @@ A unified digital ecosystem to reduce food waste, empower associates, and engage
 
 ### `/client`
 - React frontend app
-- Recharts/D3 visualizations
+- Recharts visualizations
 - Redux store for points, badges, and rewards
 
 ### `/server`
